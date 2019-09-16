@@ -176,7 +176,7 @@ Filter hybrid is that it is not necessary to know R <i>a priori</i> or estimate 
 
 ### Applications of the Kalman Filter to Chemical Sensors for Downstream Machine Learning
 
-<img src="images/kalman_filter_ml.png" height="400" width="400"align="right">
+<img src="images/kalman_filter_ml.png" height="400" width="400" align="right"/>
 
 Chemical sensors play an important role in a variety of civilian and military domains.  In these contexts,
 the ability to accurately and quickly identify chemical agents is of utmost importance.  In practice,
@@ -198,7 +198,7 @@ introduction.
 ## Xiaozhou (Joe) Zou
 *Data Science MS-Thesis Student*
 
-<img src="images/Joe.PNG" height="100" width-"100 align="left"/>
+<img src="images/Joe.PNG" height="100" width="100" align="left"/>
 
 ### Investigation on Using Randomness Technique to Improve GAN and Mechanism of Batch Normalization
 
