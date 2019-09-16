@@ -53,7 +53,7 @@ unsupervised and often involve high dimensional network data with sparse anomali
   * [Paper 1](paper/jutras_Paper1Title.pdf)
   
   
-## Kim Gajamannage
+## Kelum Gajamannage
 *Mathematial Sciences Postdoctoral Scholar*
 
 <img src="images\kdgajamannage.jpg" height="120" align="left"/>
