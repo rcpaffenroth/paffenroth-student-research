@@ -131,8 +131,7 @@ We also propose an ADMM solution to detect the anomaly. The advantage of the alg
 is that the ADMM solution can handle large scale data efficiently.
 
 #### Publications
-
-* [Paper 1](papers/haitao_Paper1Title.pdf)
+  * [Paper 1](papers/haitao_Paper1Title.pdf)
 
 
 ## Yingnan Liu
@@ -150,9 +149,8 @@ function from non-Gaussian space to Gaussian space. We input the mapped space to
 Then the residual from Kalman Filter is passed back to LSTM for training.
 
 #### Education
-
-* M.S. Worcester Polytechnin Institute, Applied Statistics, 2016
-* B.S. University of Waterloo, Mathematical Physics, 2013
+  * M.S. Worcester Polytechnin Institute, Applied Statistics, 2016
+  * B.S. University of Waterloo, Mathematical Physics, 2013
 
 ## Matt Weiss
 *Data Science PhD Student*
@@ -221,6 +219,5 @@ normalization. I also try to replace the Z-score transformation, which is origin
 by the min-max normalization. This research is still in progress and more results will be added later on.
 
 #### Publications
-
-* [Paper 1](papers/joe_Paper_Title.pdf)
+  * [Paper 1](papers/joe_Paper_Title.pdf)
 
