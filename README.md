@@ -27,7 +27,7 @@ Multidimensional Scaling but also compare and contrast the use of geodesic dista
 
 ### Compressive Sensing on Carbon Nanotube Sheet Quality Control Data
 
-<img src="images/lauren_example.png" height="175" width="400"align="right"/>
+<img src="images/lauren_example.png" height="175" width="400" align="right"/>
 
 The goal of this project is to apply compressive sensing techniques to measurements provided by Nanocomp Inc.,
 a company producing carbon nanotube products. This project is concerned with the thickness and uniformity of
@@ -44,7 +44,7 @@ on sheet quality.
 
 ### Robust Principal Component Analysis <br>for Anomaly Detection in Cyber Network Data
 
-<img src="images/jutrasMatrix.JPG" height="175" width="400"align="right"/>
+<img src="images/jutrasMatrix.JPG" height="175" width="400" align="right"/>
 
 The goal of this research is to utilize Robust Principal Component Analysis (RPCA) for the purpose of anomaly
 detection in DNS network packet data. Computer network traffic meets all of the criteria for Big Data. When
@@ -94,7 +94,7 @@ and <i>L</i> is a low rank matrix.
 
 ### Large Scale Ensemble Learning
 
-<img src="images\ensemble_learning.png" height="250" width="250"align="right"/>
+<img src="images\ensemble_learning.png" height="250" width="250" align="right"/>
 
 Ensemble learning is a very important technic in machine learning, and it is also widely used in industrial field
 because of the good performance on predictions and classifications. However, the reason why it works so good is
