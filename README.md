@@ -1,9 +1,7 @@
-# Projects
-
-## Nitish Bahadur
+# Nitish Bahadur
 *Data Science PhD Student*
 
-### Non-linear dimenionality reduction techniques in Finance
+## Non-linear dimenionality reduction techniques in Finance
 
 <img src="images/euclidean_60.PNG" height="175" width="400" align="right"/>
 
@@ -16,16 +14,16 @@ we zoom into temporal dimensionality around large market movements to detect ear
 We not only study the benefit of using non-linear techniques such as Isomap, over linear technique such as PCA or
 Multidimensional Scaling but also compare and contrast the use of geodesic distance and informational geometric distances.
 
-#### Publications
+### Publications
   * [Bahardur Paper 1](papers/bahadur_Paper1.pdf)
 
 
-## Lauren Baker
+# Lauren Baker
 *Industrial Mathematics MS Professional Project Student*
 
 <img src="images/lauren.jpg" height="75" align="left"/>
 
-### Compressive Sensing on Carbon Nanotube Sheet Quality Control Data
+## Compressive Sensing on Carbon Nanotube Sheet Quality Control Data
 
 <img src="images/lauren_example.png" height="175" width="400" align="right"/>
 
@@ -37,12 +35,12 @@ on these sheets. This will ultimately allow Nanocomp to measure the effects of c
 on sheet quality.
 
 
-## Melanie Jutras
+# Melanie Jutras
 *Data Science MS-Thesis Student*
 
 <img src="images/jutras.jpg" height="75" align="left"/>
 
-### Robust Principal Component Analysis <br>for Anomaly Detection in Cyber Network Data
+## Robust Principal Component Analysis <br>for Anomaly Detection in Cyber Network Data
 
 <img src="images/jutrasMatrix.JPG" height="175" width="400" align="right"/>
 
@@ -55,16 +53,16 @@ data and anomalous network data. This data science technique allows for tuning a
 of training data.  The method described here is useful for cybersecurity because these types of problems are largely
 unsupervised and often involve high dimensional network data with sparse anomalies.
 
-#### Publications
+### Publications
   * [Paper 1](paper/jutras_Paper1Title.pdf)
   
   
-## Kelum Gajamannage
+# Kelum Gajamannage
 *Mathematial Sciences Postdoctoral Scholar*
 
 <img src="images\kdgajamannage.jpg" height="120" align="left"/>
 
-### Manifold Learning and Dimensionality Reduction
+## Manifold Learning and Dimensionality Reduction
 
 <img src="images\smoothingGeodesic.png" height="200" align="right"/>
 
@@ -83,16 +81,16 @@ distances as unknown, and employ matrix completion techniques on distance matric
 are not observed, to recover the distance matrix such that $$D = S + L$$, where $$S$$ is a sparse matrix
 and $$L$$ is a low rank matrix.
 
-#### Publications
+### Publications
   * [Paper 1](papers\gajamannage_papers.pdf)
 
 
-## Wenjing Li
+# Wenjing Li
 *Mathematical Department PhD Student*
 
 <img src="images\Wenjing_Li.png" height="75" align="left"/>
 
-### Large Scale Ensemble Learning
+## Large Scale Ensemble Learning
 
 <img src="images\ensemble_learning.png" height="250" width="250" align="right"/>
 
@@ -105,16 +103,16 @@ primarily used to improve the classification or prediction performance of a mode
 a poor model. Therefore, there are two major focuses of ensemble learning: the first one is the process of model
 generation and selection, and the other one is the model combining strategy.
 
-#### Publications
+### Publications
 
 * [Paper 1](papers\Wenjing_Paper1Title.pdf)
 
-## Haitao Liu
+# Haitao Liu
 *Data Science PhD Student*
 
 <img src="images/haitao.jpeg" height="75" align="left">
 
-### Robust Graphical Lasso Anomaly Detection
+## Robust Graphical Lasso Anomaly Detection
 
 <img src="images/Sparse.png" height="175" width="400" align="right"/>
 
@@ -130,16 +128,16 @@ covariance of the sparse anomaly matrix equals to the observed sample covariance
 We also propose an ADMM solution to detect the anomaly. The advantage of the algorithm
 is that the ADMM solution can handle large scale data efficiently.
 
-#### Publications
+### Publications
   * [Paper 1](papers/haitao_Paper1Title.pdf)
 
 
-## Yingnan Liu
+# Yingnan Liu
 *Data Science PhD Student*
 
 <img src="images/Yingnan.jpg" height="125" align="left"/>
 
-### Deep Kalman Filter for Non-Gaussian Data - An application with LSTM for Financial Data
+## Deep Kalman Filter for Non-Gaussian Data - An application with LSTM for Financial Data
 
 Kalman filter is an estimation technique based on Bayesian Statistics.  It is widely used for financial
 time series analysis.  However, the filter yields accurate estimation only in special cases of linear
@@ -148,16 +146,16 @@ noises. We combine the filter with Long Short Term Memory networks (LSTM).  LSTM
 function from non-Gaussian space to Gaussian space. We input the mapped space to the filter.
 Then the residual from Kalman Filter is passed back to LSTM for training.
 
-#### Education
+### Education
   * M.S. Worcester Polytechnin Institute, Applied Statistics, 2016
   * B.S. University of Waterloo, Mathematical Physics, 2013
 
-## Matt Weiss
+# Matt Weiss
 *Data Science PhD Student*
 
 <img src="images/mlweiss.jpg" height="75" align="left">
 
-### Optimal Filtering for Deep Learning
+## Optimal Filtering for Deep Learning
 
 <img src="images/optimal_filtering.png" height="175" width="400" align="right"/>
 
@@ -174,7 +172,7 @@ Filter and then decode the Kalman Filter's output.  Using simulated data we show
 of $$x(t)$$ is more accurate when accompanied by an autoencoder.  A preliminary result of this autoencoder/Kalman
 Filter hybrid is that it is not necessary to know R *a priori* or estimate it experimentally.
 
-### Applications of the Kalman Filter to Chemical Sensors for Downstream Machine Learning
+## Applications of the Kalman Filter to Chemical Sensors for Downstream Machine Learning
 
 <img src="images/kalman_filter_ml.png" height="400" width="400" align="right"/>
 
@@ -195,12 +193,12 @@ An advantage of our approach is classification does not depend on a set paramete
 change, or a pre-determined exposure time, which allows rapid classification immediately after analyte
 introduction.
 
-## Xiaozhou (Joe) Zou
+# Xiaozhou (Joe) Zou
 *Data Science MS-Thesis Student*
 
 <img src="images/Joe.PNG" height="100" width="100" align="left"/>
 
-### Investigation on Using Randomness Technique to Improve GAN and Mechanism of Batch Normalization
+## Investigation on Using Randomness Technique to Improve GAN and Mechanism of Batch Normalization
 
 <img src="images/topicImage.PNG" height="400" width="400" align="right"/>
 
@@ -218,6 +216,6 @@ collapse problem. To reach this goal, I decompose the batch normalization and tr
 normalization. I also try to replace the Z-score transformation, which is originally used in batch normalization,
 by the min-max normalization. This research is still in progress and more results will be added later on.
 
-#### Publications
+### Publications
   * [Paper 1](papers/joe_Paper_Title.pdf)
 
