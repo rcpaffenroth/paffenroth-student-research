@@ -1,5 +1,7 @@
 # Projects
 
+$$ \Sigma \mathbf{X} $$
+
 ## Nitish Bahadur
 *Data Science PhD Student*
 
