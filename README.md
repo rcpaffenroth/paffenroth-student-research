@@ -1,7 +1,5 @@
 # Projects
 
-$$ \Sigma \mathbf{X} $$
-
 ## Nitish Bahadur
 *Data Science PhD Student*
 
@@ -78,12 +76,12 @@ approximated as the lengths of these splines. The smoothing spline scheme is cap
 noise and scarcity and assures a faithful embedding. We can also utilize smoothing splines for NDR while preserving
 the geometry of the higher dimensional data. For that, we first make higher dimensional slices of the data in *n*
 orthogonal directions and then fit data in each slice by a cubic smoothing spline. All the cubic smoothing splines
-represent a grid structure that we use as the <i>n</i> dimensional coordinate system to measure the distances on
+represent a grid structure that we use as the $$n$$ dimensional coordinate system to measure the distances on
 the manifold. I am also interested of generalizing Isomap to the case where both geodesics and smoothing splines
 are not good approximations of long manifold distances. In such a case, one can attempt to treat the long manifold
-distances as unknown, and employ matrix completion techniques on distance matrices (<i>D</i>), where some entries
-are not observed, to recover the distance matrix such that <i> D = S + L </i>, where <i>S</i> is a sparse matrix
-and <i>L</i> is a low rank matrix.
+distances as unknown, and employ matrix completion techniques on distance matrices ($$D$$), where some entries
+are not observed, to recover the distance matrix such that $$D = S + L$$, where $$S$$ is a sparse matrix
+and $$L$$ is a low rank matrix.
 
 #### Publications
   * [Paper 1](papers\gajamannage_papers.pdf)
@@ -163,18 +161,18 @@ Then the residual from Kalman Filter is passed back to LSTM for training.
 
 <img src="images/optimal_filtering.png" height="175" width="400" align="right"/>
 
-Filtering is the process of recovering a signal, x(t), from noisy measurements, z(t).  One common filter is
+Filtering is the process of recovering a signal, $$x(t)$$, from noisy measurements, $$z(t)$$.  One common filter is
 the Kalman Filter, which is proven to be the optimal unbiased linear filter under certain conditions.  One
-such condition is that the noise present in z(t), obscuring x(t), is a zero-mean Gaussian process with known
-covariance R.  However, in practice the determination of the actual R is problematic and often tuned using
+such condition is that the noise present in $$z(t)$$, obscuring $$x(t)$$, is a zero-mean Gaussian process with known
+covariance $$R$$.  However, in practice the determination of the actual R is problematic and often tuned using
 cross-validation and domain knowledge.  In our current research we approach the problem in a different way.
-Instead of tuning R based on cross-validation and Kalman Filter performance, we fix R and learn a transformation
-of the measurements, z(t), which improves Kalman Filter performance.  As this transformation needs to receive
+Instead of tuning $$R$$ based on cross-validation and Kalman Filter performance, we fix $$R$$ and learn a transformation
+of the measurements, $$z(t)$$, which improves Kalman Filter performance.  As this transformation needs to receive
 feedback from the Kalman Filter, an artificial neural network is an ideal candidate.  Specifically, the
-transformation is done using an autoencoder to first encode z(t), use the encoded data as input to a Kalman
+transformation is done using an autoencoder to first encode $$z(t)$$, use the encoded data as input to a Kalman
 Filter and then decode the Kalman Filter's output.  Using simulated data we show the Kalman Filter's estimate
-of x(t) is more accurate when accompanied by an autoencoder.  A preliminary result of this autoencoder/Kalman
-Filter hybrid is that it is not necessary to know R <i>a priori</i> or estimate it experimentally.
+of $$x(t)$$ is more accurate when accompanied by an autoencoder.  A preliminary result of this autoencoder/Kalman
+Filter hybrid is that it is not necessary to know R *a priori* or estimate it experimentally.
 
 ### Applications of the Kalman Filter to Chemical Sensors for Downstream Machine Learning
 
