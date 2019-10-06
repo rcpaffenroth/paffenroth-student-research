@@ -54,7 +54,7 @@ of training data.  The method described here is useful for cybersecurity because
 unsupervised and often involve high dimensional network data with sparse anomalies.
 
 ### Publications
-  * [Paper 1](paper/jutras_Paper1Title.pdf)
+  * [Paper 1](papers/jutras_Paper1Title.pdf)
   
   
 # Kelum Gajamannage
@@ -82,17 +82,17 @@ are not observed, to recover the distance matrix such that $$D = S + L$$, where 
 and $$L$$ is a low rank matrix.
 
 ### Publications
-  * [Paper 1](papers\gajamannage_papers.pdf)
+  * [Paper 1](papers/gajamannage_papers.pdf)
 
 
 # Wenjing Li
 *Mathematical Department PhD Student*
 
-<img src="images\Wenjing_Li.png" height="75" align="left"/>
+<img src="images/Wenjing_Li.png" height="75" align="left"/>
 
 ## Large Scale Ensemble Learning
 
-<img src="images\ensemble_learning.png" height="250" width="250" align="right"/>
+<img src="images/ensemble_learning.png" height="250" width="250" align="right"/>
 
 Ensemble learning is a very important technic in machine learning, and it is also widely used in industrial field
 because of the good performance on predictions and classifications. However, the reason why it works so good is
@@ -105,7 +105,7 @@ generation and selection, and the other one is the model combining strategy.
 
 ### Publications
 
-* [Paper 1](papers\Wenjing_Paper1Title.pdf)
+* [Paper 1](papers/Wenjing_Paper1Title.pdf)
 
 # Haitao Liu
 *Data Science PhD Student*
