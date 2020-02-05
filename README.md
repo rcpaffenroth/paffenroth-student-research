@@ -149,6 +149,20 @@ Then the residual from Kalman Filter is passed back to LSTM for training.
 ### Education
   * M.S. Worcester Polytechnin Institute, Applied Statistics, 2016
   * B.S. University of Waterloo, Mathematical Physics, 2013
+  
+# Alexander Moore
+*Data Science PhD Student*
+
+<img src="images/Moore.jpg" height="125" align="left"/>
+
+## Relational Inverse with Deep Adversarial Canonical Correlation Analysis
+
+<img src="images/deep_adc_cca.png" height="200" width="200" align="right"/>
+
+Relational inference between complex joint data distributions is a common challenge in high-dimensional statistics. The challenges presented are accentuated in rich data distributions and sparse data domains. Deep Adversarial CCA approaches this task by combining alternative methods to established Bi-Directional GAN, Deep CCA, and Adversarial Autoencoder frameworks to diversify training and inferential opportunities. 
+
+### Education
+  * B.A. Reed College, Statistics, 2019
 
 # Matt Weiss
 *Data Science PhD Student*
