@@ -159,7 +159,7 @@ Then the residual from Kalman Filter is passed back to LSTM for training.
 
 <img src="images/crop_flow.png" height="200" width="300" align="right"/>
 
-Relational inference between complex joint data distributions is a common challenge in high-dimensional statistics. The challenges presented are accentuated in rich data distributions and sparse data domains. Deep Adversarial CCA approaches this task by combining alternative methods to established Bi-Directional GAN, Deep CCA, and Adversarial Autoencoder frameworks to diversify training and inferential opportunities. 
+Relational inference between complex joint data distributions is a common challenge in high-dimensional statistics. The challenges presented are accentuated from rich data distributions in sparse data domains. Deep Adversarial CCA approaches this task by combining alternative methods to established Bi-Directional GAN, Deep CCA, and Adversarial Autoencoder frameworks to diversify training and inferential opportunities. 
 
 ### Education
   * B.A. Reed College, Statistics, 2019
