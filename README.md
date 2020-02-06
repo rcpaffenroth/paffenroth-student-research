@@ -135,11 +135,11 @@ is that the ADMM solution can handle large scale data efficiently.
 # Yingnan Liu
 *Data Science PhD Student*
 
-<img src="images/yingnan liu.jpg" height="125" align="left"/>
+<img src="images/yingnan liu.jpg" height="140" align="left"/>
 
 ## CNNs in the Frequency Domain for Image Super-resolution
 
-<img src="images/frame.JPG" height="200" width="300" align="right"/>
+<img src="images/frame.JPG" height="200" width="400" align="right"/>
 
 Kalman filter is an estimation technique based on Bayesian Statistics.  It is widely used for financial
 time series analysis.  However, the filter yields accurate estimation only in special cases of linear
