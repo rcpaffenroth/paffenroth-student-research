@@ -155,7 +155,7 @@ Then the residual from Kalman Filter is passed back to LSTM for training.
 
 <img src="images/Moore.jpg" height="125" align="left"/>
 
-## Relational Inverse with Deep Adversarial Canonical Correlation Analysis
+## Relational Inference with Deep Adversarial Canonical Correlation Analysis
 
 <img src="images/crop_flow.png" height="200" width="300" align="right"/>
 
