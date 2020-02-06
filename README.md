@@ -137,16 +137,11 @@ is that the ADMM solution can handle large scale data efficiently.
 
 <img src="images/yingnan liu.jpg" height="140" align="left"/>
 
-## CNNs in the Frequency Domain for Image Super-resolution
+## Ensemble CNNs in the Frequency Domain for Image Super-resolution
 
-<img src="images/frame.JPG" height="200" width="400" align="right"/>
+<img src="images/frame.JPG" height="225" width="400" align="right"/>
 
-Kalman filter is an estimation technique based on Bayesian Statistics.  It is widely used for financial
-time series analysis.  However, the filter yields accurate estimation only in special cases of linear
-data and Gaussian noise. In this research, we focus on the extension for nonlinear data and non-Gaussian
-noises. We combine the filter with Long Short Term Memory networks (LSTM).  LSTM is used as a mapping
-function from non-Gaussian space to Gaussian space. We input the mapped space to the filter.
-Then the residual from Kalman Filter is passed back to LSTM for training.
+This study aims to recover high-resolution images from low-resolution images by combining ideas inspired by compressive sensing, super-resolution neural networks, and ensemble learning. The key idea is that the frequency domain, and other transformed domains, where images can be presented sparsely can be used to improve the performance of super-resolution convolutional neural networks. We propose an ensemble method for selecting the appropriate sparsifying transform across different image patches. Our proposed algorithm has been developed to leverage the advantages from multiple transformation domains and provide a universal solution for various types of images. 
 
 ### Education
   * M.S. Worcester Polytechnin Institute, Applied Statistics, 2016
