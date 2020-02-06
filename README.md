@@ -137,7 +137,9 @@ is that the ADMM solution can handle large scale data efficiently.
 
 <img src="images/Yingnan.jpg" height="125" align="left"/>
 
-## Deep Kalman Filter for Non-Gaussian Data - An application with LSTM for Financial Data
+## CNNs in the Frequency Domain for Image Super-resolution
+
+<img src="images/crop_flow.png" height="200" width="300" align="right"/>
 
 Kalman filter is an estimation technique based on Bayesian Statistics.  It is widely used for financial
 time series analysis.  However, the filter yields accurate estimation only in special cases of linear
@@ -149,6 +151,10 @@ Then the residual from Kalman Filter is passed back to LSTM for training.
 ### Education
   * M.S. Worcester Polytechnin Institute, Applied Statistics, 2016
   * B.S. University of Waterloo, Mathematical Physics, 2013
+  
+### Publications
+  * [Paper 1](papers/yingnan_Paper1Title.pdf)
+  
   
 # Alexander Moore
 *Data Science PhD Student*
