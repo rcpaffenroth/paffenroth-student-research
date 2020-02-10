@@ -35,6 +35,21 @@ on these sheets. This will ultimately allow Nanocomp to measure the effects of c
 on sheet quality.
 
 
+# Maria (Mia) Barger
+*Data Science PhD Student*
+
+<img src="images/Barger.jpg" height="125" align="left"/>
+
+## Reusable Holdout Applied to Deep Adversarial Canonical Correlation Analysis
+
+<img src="images/mb_cca.png" height="175" align="right"/>
+
+My research utilizes the reusable holdout method to perform Deep Adversarial CCA on small datasets. The reusable holdout is a method of estimating the distribution of a dataset without requiring a large amount of data. The combination of reusable holdout with Deep Adversarial CCA lends itself to generating synthetic data which adheres to the data's true distribution without requiring researchers to gather a large and potentially expensive dataset. 
+
+### Education
+B.S. University of New Hampshire, Mathematics, 2019
+
+
 # Melanie Jutras
 *Data Science MS-Thesis Student*
 
@@ -42,7 +57,7 @@ on sheet quality.
 
 ## Robust Principal Component Analysis <br>for Anomaly Detection in Cyber Network Data
 
-<img src="images/jutrasMatrix.JPG" height="175" width="400" align="right"/>
+<img src="images/jutrasMatrix.JPG" height="175" align="right"/>
 
 The goal of this research is to utilize Robust Principal Component Analysis (RPCA) for the purpose of anomaly
 detection in DNS network packet data. Computer network traffic meets all of the criteria for Big Data. When
