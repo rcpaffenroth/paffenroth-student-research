@@ -42,7 +42,7 @@ on sheet quality.
 
 ## Reusable Holdout Applied to Deep Adversarial Canonical Correlation Analysis
 
-<img src="images/mb_cca.png" height="175" align="right"/>
+<img src="images/mb_cca.png" height="225" align="right"/>
 
 My research utilizes the reusable holdout method to perform Deep Adversarial CCA on small datasets. The reusable holdout is a method of estimating the distribution of a dataset without requiring a large amount of data. The combination of reusable holdout with Deep Adversarial CCA lends itself to generating synthetic data. In particular, this data will adhere to the data's true distribution without requiring researchers to gather a large and potentially expensive dataset. 
 
