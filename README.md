@@ -173,9 +173,9 @@ This study aims to recover high-resolution images from low-resolution images by 
 
 ## Relational Inference, Manifold Learning, a new take on Expert Systems
 
-<img src="images/crop_flow.png" height="200" width="300" align="right"/>
+<img src="images/molview_dmmp.png" height="200" width="300" align="right"/>
 
-Relational inference between complex joint data distributions is a common challenge in high-dimensional statistics. The challenges presented are accentuated from rich data distributions in sparse data domains. By leveraging external information to a dataset such as unpaired data and domain knowledge, we can learn a manifold and sample from it to improve our models.
+Relational inference between complex joint data distributions is a common challenge in high-dimensional statistics. The challenges presented are accentuated from rich data distributions in sparse data domains. By leveraging external information to a dataset such as unpaired data and domain knowledge, we can learn a manifold and sample from it to improve our models. In some fields we have centuries of domain knowledge - why not use it?
 
 ### Education
   * B.A. Reed College, Statistics, 2019
