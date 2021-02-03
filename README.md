@@ -178,7 +178,7 @@ This study aims to recover high-resolution images from low-resolution images by 
 Relational inference between complex joint data distributions is a common challenge in high-dimensional statistics. The challenges presented are accentuated from rich data distributions in sparse data domains. By leveraging external information to a dataset such as unpaired data and domain knowledge, we can learn a manifold and sample from it to improve our models. In some fields we have centuries of domain knowledge - why not use it?
 
 ### Education
-  * B.A. Reed College, Statistics, 2019
+  * B.A. Reed College, Mathematics and Statistics, 2019
 
 # Matt Weiss
 *Data Science PhD Student*
