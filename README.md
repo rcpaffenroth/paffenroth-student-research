@@ -40,11 +40,11 @@ on sheet quality.
 
 <img src="images/Barger.jpg" height="125" align="left"/>
 
-## Reusable Holdout Applied to Deep Adversarial Canonical Correlation Analysis
+## Conditioned Cycles for Data Generation in Sparse Data Environments
+<img src="images/fish_pic.PNG" height="225" width="400" align="right"/>
 
-<img src="images/mb_cca.png" height="225" align="right"/>
+My research focuses primarily on novel contributions to neural network architecture to facilitate data generation in sparse data environments. Using a cyclic autoencoder structure, my neural networks are able to produce useful generated data in extremely low-data environments while also producing regression predictions based on real-world and generated data. By adding conditioning, a term we use in the sense of classical statistics’ conditional probabilities, I am able to generate data based on specific, user-determined parameters. Generally, I focus on the real-world application of electromagnetic signal source localization but will be expanding my research to show the applicability of my algorithms to other real-world problems.
 
-My research utilizes the reusable holdout method to perform Deep Adversarial CCA on small datasets. The reusable holdout is a method of estimating the distribution of a dataset without requiring a large amount of data. The combination of reusable holdout with Deep Adversarial CCA lends itself to generating synthetic data. In particular, this data will adhere to the data's true distribution without requiring researchers to gather a large and potentially expensive dataset. 
 
 ### Education
 B.S. University of New Hampshire, Mathematics, 2019
@@ -248,4 +248,16 @@ by the min-max normalization. This research is still in progress and more result
 
 ### Publications
   * [Paper 1](papers/joe_Paper_Title.pdf)
+
+# Quincy Hershey
+*Data Science PhD Student*
+
+<img src="images/Family2Crop2.jpg" height="100" width="100" align="left"/>
+
+## Random Sparsely Parameterized Network Architectures
+
+<img src="images/Project1.png" height="225" width="400" align="right"/>
+
+Sparse parametrizations have been demonstrated to allow inference capabilities in memory or computationally constrained deployments.  By pruning parameterizations, networks with less than 20% of the total parameter count can routinely maintain the accuracy of the full network.  In some cases, performance may also be improved through the use of sparse networks.  Randomly parameterized sparse networks take this a step further by implementing the sparse configuration prior to training with the goal of improving training efficiency and performance.  Analysis has shown randomly initialized architectures may perform in a virtually indistinguishable manner versus dense or pruned configurations with added gains in performance stability.
+
 
