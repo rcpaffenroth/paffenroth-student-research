@@ -6,8 +6,8 @@
 
 ## Oracle Embeddings for Chemical Data Generation
 
-<img src="images/dunham_1.PNG" height="285" width="300" align="right"/>
-<img src="images/dunham_2.PNG" height="125" width="400" align="right"/>
+<img src="images/dunham_1.png" height="285" width="300" align="right"/>
+<img src="images/dunham_2.png" height="125" width="400" align="right"/>
 The accurate detection of chemical agents promotes many national security and public safety goals, and mass spectrometry 
 is an important tool to this end. However, the high cost associated with acquiring lab-generated mass spectrometry data 
 hinders the development of machine learning models to detect and identify chemical agents. 
