@@ -1,3 +1,31 @@
+
+# Cate Dunham
+*Data Science PhD Student*
+
+<img src="images/dunham.jpg" height="125" align="left"/>
+
+## Oracle Embeddings for Chemical Data Generation
+
+<img src="images/dunham_1.PNG" height="285" width="300" align="right"/>
+<img src="images/dunham_2.PNG" height="125" width="400" align="right"/>
+The accurate detection of chemical agents promotes many national security and public safety goals, and mass spectrometry 
+is an important tool to this end. However, the high cost associated with acquiring lab-generated mass spectrometry data 
+hinders the development of machine learning models to detect and identify chemical agents. 
+Accordingly, the primary objective of our research is to create a mass spectrometry data generation model whose output 
+(synthetic mass spectrometry data) would enhance the performance of downstream chemical classification models. Such a 
+synthetic data generation model would reduce the need to generate costly real-world data and provide additional training 
+data to use in combination with lab-generated mass spectrometry data when training classifiers.
+Our approach is a novel combination of autoencoder-based synthetic data generation combined with a fixed, apriori 
+defined hidden layer geometry.
+In particular, we train pairs of encoders and decoders with an additional loss term that 
+enforces that the hidden layer passed from the encoder to the decoder match the embedding provided by an external deep 
+learning model designed to predict functional properties of chemicals.
+We have verified that incorporating our synthetic spectra into a lab-generated dataset enhances the performance of 
+classification algorithms compared to using only the real data. Our synthetic spectra have been successfully matched 
+to lab-generated spectra for their respective chemicals using library matching software, further demonstrating the 
+validity of our work.
+
+
 # Nitish Bahadur
 *Data Science PhD Student*
 
